@@ -1,0 +1,10 @@
+C:\Users\-batatax-\source\repos\RecupProductos1Gaston\bin\Debug\RecupProductos1Gaston.exe.config
+C:\Users\-batatax-\source\repos\RecupProductos1Gaston\bin\Debug\RecupProductos1Gaston.exe
+C:\Users\-batatax-\source\repos\RecupProductos1Gaston\bin\Debug\RecupProductos1Gaston.pdb
+C:\Users\-batatax-\source\repos\RecupProductos1Gaston\obj\Debug\RecupProductos1Gaston.csproj.AssemblyReference.cache
+C:\Users\-batatax-\source\repos\RecupProductos1Gaston\obj\Debug\RecupProductos1Gaston.Frm_Alta.resources
+C:\Users\-batatax-\source\repos\RecupProductos1Gaston\obj\Debug\RecupProductos1Gaston.Properties.Resources.resources
+C:\Users\-batatax-\source\repos\RecupProductos1Gaston\obj\Debug\RecupProductos1Gaston.csproj.GenerateResource.cache
+C:\Users\-batatax-\source\repos\RecupProductos1Gaston\obj\Debug\RecupProductos1Gaston.csproj.CoreCompileInputs.cache
+C:\Users\-batatax-\source\repos\RecupProductos1Gaston\obj\Debug\RecupProductos1Gaston.exe
+C:\Users\-batatax-\source\repos\RecupProductos1Gaston\obj\Debug\RecupProductos1Gaston.pdb
